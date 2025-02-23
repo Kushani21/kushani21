@@ -47,10 +47,11 @@ I am currently seeking **job opportunities** in software engineering, open to **
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height "40"/> </a> &nbsp;
 <!-- AWS -->
-<a href="https://aws.amazon.com" target="_blank" rel "noreferrer"> <img src "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg " alt "aws " width "40 " height "40 "/> </a>&nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws " width="40 " height="40 "/> </a>&nbsp;
 
----
 <!--
+---
+
 ## 🎯 Career Goals  
 🔹 Seeking **Software Engineering** job opportunities  
 🔹 Open to **collaborative projects** and **freelance work**  
@@ -92,7 +93,6 @@ I am currently seeking **job opportunities** in software engineering, open to **
   </a>
 
 </p>
-
 
 Let's connect and collaborate! 🚀  
 
